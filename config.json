@@ -1,11 +1,11 @@
 {
-  "version": "2.0",
-  "blocked": false,
-  "message": "يجب تفعيل البرنامج لاكمال العمل",
-  "trial_max_days": 7,
-  "trial_max_uses": 20,
-  "trial_max_pages": 100,
-  "blocked_machines": [
-    
-  ]
+    "licenses": [
+        {
+            "key": "CC74-BD4C-6FE0-2089",
+            "type": "monthly",
+            "machine_id": "C0A3-844B",
+            "active": true,
+            "created_at": "2026-06-14"
+        }
+    ]
 }
