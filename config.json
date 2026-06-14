@@ -5,7 +5,5 @@
   "trial_max_days": 7,
   "trial_max_uses": 20,
   "trial_max_pages": 100,
-  "license_keys": [
-    "1E88-7F31-F254-B3D1"
-  ]
+  "blocked_machines": []
 }
