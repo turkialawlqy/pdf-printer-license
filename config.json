@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "blocked": false,
+  "message": "",
+  "trial_max_days": 7,
+  "trial_max_uses": 20,
+  "trial_max_pages": 100,
+  "license_keys": [
+    "TURKI-PDF-2026-MASTER"
+  ]
+}
