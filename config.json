@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "blocked": false,
-  "message": "",
+  "message": "يجب تفعيل البرنامج لاكمال العمل",
   "trial_max_days": 7,
   "trial_max_uses": 20,
   "trial_max_pages": 100,
