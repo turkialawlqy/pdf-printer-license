@@ -5,5 +5,7 @@
   "trial_max_days": 7,
   "trial_max_uses": 20,
   "trial_max_pages": 100,
-  "blocked_machines": []
+  "blocked_machines": [
+    "C0A3-844B"
+  ]
 }
